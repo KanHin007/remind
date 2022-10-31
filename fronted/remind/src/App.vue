@@ -10,6 +10,7 @@ import MainFooter from "@/components/MainFooter";
 export default {
   name: 'App',
   components: {
+
     MainIndex,
     MainFooter
   }
